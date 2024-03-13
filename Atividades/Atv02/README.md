@@ -13,5 +13,7 @@ Para resolução da segunda questão utilizei a classe scanner que converte os v
 
 Para resolução da terceira questão utilizei do mesmo da anterior
 
+Para resolução da quarta questão utilizei o metodo round para arredondar os pontos
+
 
 
