@@ -8,3 +8,10 @@ Para resolução da primeira questão fiz uma pesquisa sobre os dados primitivos
 * O \t é usado para dar um tab na hora de printar
 * As aspas não são printadas a não ser que simbolize com a barra invertida
 * Para printar uma barra invertida é necessário simbolizar com outra barra 
+
+Para resolução da segunda questão utilizei a classe scanner que converte os valores inteiro e real e exibe os valores no console
+
+Para resolução da terceira questão utilizei do mesmo da anterior
+
+
+
