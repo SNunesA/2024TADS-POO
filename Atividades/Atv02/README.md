@@ -15,5 +15,4 @@ Para resolução da terceira questão utilizei do mesmo da anterior
 
 Para resolução da quarta questão utilizei o metodo round para arredondar os pontos
 
-
-
+Para resolução da quinta questão foi usada o printf, %s e o \n para formatação 
