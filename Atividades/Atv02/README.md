@@ -18,3 +18,5 @@
 * Para resolução da quinta questão foi usada o printf, %s e o \n para formatação 
 
 * Para resolução da sexta questão usei o mesmo das anteriores
+
+* Para resolução da setima questão usei o mesmo das anteriores
