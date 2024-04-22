@@ -5,3 +5,4 @@ se nao tiver nenhuma posiçao, é zero
 se tiver ate duas posiçoes, é um
 maior que 2 posiçoes ja começa a somar os numeros anteriores usando uma variavel auxiliar
 * Para resolução do terceiro exercicio utilizei um laço while para executar ate que o numero seja menor que 0, a variavel C serve como acumulador para ser usado depois no calculo da media
+* Para resolução do quarto e quinto exercicio foram seguidas as orientaçoes de cada alternativa
