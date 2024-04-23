@@ -3,3 +3,4 @@
 * Para resolução do segundo exercicio foi feito um laço for para preencher a matriz 3x3, depois um for para printar a matriz tabulada, apos isso foi feito o calculo para a determinante
 * Para resolução do terceiro exercicio criei um for para separar os elementos e depois um for para cada vetor para verificar as posiçoes antes de printar
 * Para resolução do quarto exercicio usei um laço do para executar ate quando o usuario quiser e utilizei o switch case para verificar as opçoes
+* Para resolução do quinto exercicio foram seguidas as orientaçoes
